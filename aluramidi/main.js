@@ -1,0 +1,1 @@
+document.querySelector('.tecla_pom'); //acesso ao botão
